@@ -1,0 +1,30 @@
+.background{
+    background: #EEE; 
+    line-height: 1.7em; 
+    font-size: 24pt;
+}
+
+.t1{
+    border: 1px #AAA;
+    border-radius: 10pt;
+    background: #CCC;
+    padding: 5pt 10pt 5pt 10pt;
+}
+.t2{
+    border: 1px #AAA;
+    border-radius: 10pt;
+    background: #CCC;
+    padding: 5pt 10pt 5pt 10pt;
+}
+.t3{
+    border: 1px #AAA;
+    border-radius: 10pt;
+    background: #CCC;
+    padding: 5pt 10pt 5pt 10pt;
+}
+.t4{
+    border: 1px #AAA;
+    border-radius: 10pt;
+    background: #CCC;
+    padding: 5pt 10pt 5pt 10pt;
+}

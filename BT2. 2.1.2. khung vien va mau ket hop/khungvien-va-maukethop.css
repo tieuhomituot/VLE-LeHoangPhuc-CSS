@@ -1,0 +1,9 @@
+.p1{border-style: dotted; border-color: #00f;}
+.p2{border-style: dashed;}
+.p3{border-style: solid;}
+.p4{border-style: double;}
+.p5{border-style: groove; border-color: pink;}
+.p6{border-style: ridge;}
+.p7{border-style: inset; border-color: red;}
+.p8{border-style: outset;}
+.p9{border-style: none;}

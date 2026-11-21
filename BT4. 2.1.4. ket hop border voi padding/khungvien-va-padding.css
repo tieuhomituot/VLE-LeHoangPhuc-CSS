@@ -1,0 +1,21 @@
+.th1 {
+    border: 1px solid red; 
+    width: 300px;
+}
+
+.th2 {
+    border: 1px solid red; 
+    width: 300px;
+    padding: 10px;
+}
+
+.p {
+    font-style: italic;
+}
+
+.th3 {
+    border: 1px solid red; 
+    width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
